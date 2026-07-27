@@ -1,7 +1,7 @@
 # Simple Discord Bot
 
 This is a simple Discord bot built with Python and `discord.py`.
--- This Bot {Snow Fox} is in  testing, things will\will not work. 
+- This Bot {Snow Fox} is in  testing, things will\will not work. 
 
 ## Prerequisites
 
