@@ -37,6 +37,8 @@ This is a simple Discord bot built with Python and `discord.py`.
     - `\lock`, `\unlock`: Lock down channels.
     - `\clear`: Delete messages.
     - `\blacklist`, `\unblacklist`: Prevent specific users from using the bot.
+    - `\poll "Question?" (Yes/No poll)` or `\poll "Question?" "Option 1" "Option 2" (Multiple choice)`: Be able to make Polls about anything.
+    - 
 - **Utility**:
     - `\reaction_roles`: Set up role assignment menus.
 
