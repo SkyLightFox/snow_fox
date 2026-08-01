@@ -30,18 +30,18 @@ This is a simple Discord bot built with Python and `discord.py`.
 - **General**:
     - `\github`: Get the link to the bot's source code.
     - `\ping`: Check if the bot is responsive.
-    - Responds to "hello" with "Hello there!".
+        - Responds to "hello" with "Hello there!".
 - **Moderation**:
     - `\kick`, `\ban`, `\unban`: Manage users.
     - `\timeout`: Mute users for a duration.
     - `\lock`, `\unlock`: Lock down channels.
     - `\clear`: Delete messages.
     - `\blacklist`, `\unblacklist`: Prevent specific users from using the bot.
-    - `\poll "Question?" (Yes/No poll)` or `\poll "Question?" "Option 1" "Option 2" (Multiple choice)`: Be able to make Polls about anything.
     - 
 - **Utility**:
     - `\reaction_roles`: Set up role assignment menus.
-
+    - `\poll "Question?" (Yes/No poll)` or `\poll "Question?" "Option 1" "Option 2" (Multiple choice)`: Be able to make Polls about anything.
+    - 
 ## Notes
 
 - Ensure "Message Content Intent" is enabled in the Discord Developer Portal under the "Bot" section for the bot to read message content.
